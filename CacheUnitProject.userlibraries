@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="CacheAlgorithm">
+    <archive path="C:/Users/Koby/Desktop/project1/out/artifacts/project1_jar/CacheAlgorithm.jar" />
+  </library>
+  <library name="gson-2.8.5">
+    <archive path="C:/Users/Koby/Downloads/gson-2.8.5.jar" />
+  </library>
+</eclipse-userlibraries>
+

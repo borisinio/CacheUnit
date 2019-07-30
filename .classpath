@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/CacheAlgorithm"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/gson-2.8.5"/>
+	<classpathentry kind="lib" path="C:/Users/Koby/Desktop/CacheUnitProject/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Koby/Desktop/CacheUnitProject/CacheAlgorithm.jar"/>
+	<classpathentry kind="output" path="out/production/CacheUnitProject"/>
+</classpath>
